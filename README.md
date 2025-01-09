@@ -108,4 +108,13 @@ HTTP Response:
     Status Code: b'302'
     Content Type: b'text/html; charset=UTF-8'
 --------------------------------------------------
+
 ```
+
+## Limitation:
+
+- HTTPS Traffic Analysis: Currently, the tool cannot decrypt or analyze HTTPS traffic. Future updates aim to include support for SSL/TLS decryption with proper certificate handling.**
+
+- Data Logging: Real time analysis is supported, but logging or exporting captured packets for later review is not yet implemented.
+
+- Protocol Support: The tool primarily focuses on HTTP and ARP-based traffic. Expanding support for additional protocols like DNS, FTP, and SMTP is in development.
