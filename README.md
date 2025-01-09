@@ -13,7 +13,7 @@ NetworkSniffer is lightweight yet powerful network packet analyzer designed for 
 ---
 
 ## Environment Setup
-For testing, I have used three VMs which were configured on the same subnet:
+For testing, I have used two VMs which were configured on the same subnet:
 
 | **VM**        | **IP Address**       | **Purpose**                  |
 |---------------|----------------------|------------------------------|
