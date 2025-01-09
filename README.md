@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### Cloning the Repository
 Clone the repository to your Kali Linux VM:
 ```bash
-git clone https://github.com/<YourUsername>/NetworkSniffer.git
+git clone https://github.com/rdx0120/NetworkSniffer.git
 cd NetworkSniffer
 ```
 
