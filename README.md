@@ -69,7 +69,7 @@ options:
 
 ```
 
-**Test Scenario:**
+## **Test Scenario:**
 
 ### 1. Identified active devices within my network:
 
