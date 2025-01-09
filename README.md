@@ -9,7 +9,6 @@ NetworkSniffer is lightweight yet powerful network packet analyzer designed for 
 - **Device Discovery**: Quickly locate devices on your network, including their IP and MAC addresses.
 - **Real Time Packet Capture**: Sniff and analyze network packets with detailed HTTP request and response information.
 - **Man in the Middle Simulation**: Intercept and forward traffic between devices on the network.
-- **Customizable Traffic Filtering**: Focus on specific HTTP methods or protocols..
 
 ---
 
