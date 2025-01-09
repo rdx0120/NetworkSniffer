@@ -100,6 +100,7 @@ HTTP Request:
     Source IP: 192.168.56.101
     Source MAC: 08:00:27:AD:BE:CD
     User-Agent: b'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0'
+
 Raw Payload:
 b'user=admin&pass=mysecretpasswd1234'
 
