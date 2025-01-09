@@ -13,11 +13,12 @@ NetworkSniffer is lightweight yet powerful network packet analyzer designed for 
 ---
 
 ## Environment Setup
-For testing, I have used two VMs which were configured on the same subnet:
+For testing, I have used three VMs which were configured on the same subnet:
 
 | **VM**        | **IP Address**       | **Purpose**                  |
 |---------------|----------------------|------------------------------|
 | Windows VM    | 192.168.56.101       | Target machine for traffic analysis. |
+| Ubuntu VM     | 192.168.56.102       | Secondary test device.      |
 | Kali Linux VM | 192.168.56.103       | Running Network Monitor Tool.|
 | Gateway       | 192.168.56.2         | Network gateway.             |
 
