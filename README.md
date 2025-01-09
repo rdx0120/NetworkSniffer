@@ -112,8 +112,8 @@ HTTP Response:
 
 ## Future Features:
 
-- HTTPS Traffic Analysis: Currently, the tool cannot decrypt or analyze HTTPS traffic. Future updates aim to include support for SSL/TLS decryption with proper certificate handling.**
+- **HTTPS Traffic Analysis:** Currently, the tool cannot decrypt or analyze HTTPS traffic. Future updates aim to include support for SSL/TLS decryption with proper certificate handling.
 
-- Data Logging: Along with Real time analysis, I also plan to implement logging or exporting of captured packets for better review.
+- **Data Logging:** Along with Real time analysis, I also plan to implement logging or exporting of captured packets for better review.
 
-- Protocol Support: For now, the tool primarily focuses on HTTP and ARP-based traffic. Will address these limitations by expanding support for additional protocols like DNS, FTP, and SMTP.
+- **Protocol Support:** For now, the tool primarily focuses on HTTP and ARP-based traffic. Will address these limitations by expanding support for additional protocols like DNS, FTP, and SMTP.
